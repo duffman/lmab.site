@@ -1,0 +1,68 @@
+
+
+body {
+/*	background: lime !important; */
+}
+
+.masthead-heading {
+	color: #ffffff !important;
+}
+
+h1, h2, h3, h4 {
+	color: #6c757d !important;
+}
+
+.ph {
+	border-radius: 16px;
+	/* border: solid 2px gray; */
+	box-shadow: #e4e4e4 2px 2px;
+}
+
+.photos {
+	div[class^="col"] {
+		border: 1px solid #333;
+		background: #fd9;
+		line-height: 18;
+	}
+}
+
+
+.sloganText {
+/*	font-family: 'Nunito Sans', sans-serif;*/
+	font-family: 'Nunito Sans', sans-serif;
+	font-size: 26pt;
+}
+
+
+/***********************************
+Social Buttons
+ *********************************/
+
+.instagram-btn {
+	margin-right: 4px;
+	background: linear-gradient(45deg, #405DE6, #5851DB, #833AB4, #C13584, #E1306C, #FD1D1D);
+	border: 2px solid white;
+}
+
+.instagram-icon {
+	color: white;
+	font-weight: bold;
+}
+
+.instagram-btn:hover {
+	background: linear-gradient(45deg, #FD1D1D, #E1306C, #C13584, #833AB4, #5851DB, #405DE6);
+	border: 2px solid black;
+}
+
+.facebook-btn {
+	background-color: #1877f2;
+}
+
+.facebook-icon {
+	color: white;
+}
+
+.facebook-btn:hover {
+	background-color: #155a8a;
+	border: 2px solid white;
+}

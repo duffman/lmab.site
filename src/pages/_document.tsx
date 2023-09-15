@@ -51,7 +51,7 @@ export default function MainDocument() {
 							</ul>
 						</div>
 						<div className="d-flex align-items-center">
-							<a href="https://www.instagram.com/microcement_norrland" target="_blank" rel="noopener noreferrer" className="btn instagram-btn">
+							<a href="https://www.instagram.com/lulea_microcement_och_bygg" target="_blank" rel="noopener noreferrer" className="btn instagram-btn">
 								<i className="fab fa-instagram instagram-icon"></i>
 							</a>
 
